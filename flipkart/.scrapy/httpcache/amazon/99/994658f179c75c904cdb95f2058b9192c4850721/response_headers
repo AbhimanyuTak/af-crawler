@@ -1,0 +1,16 @@
+Via: 1.1 c17d987ff5ce8137613fd33ef9ba83cb.cloudfront.net (CloudFront)
+X-Cache: Miss from cloudfront
+Content-Encoding: gzip
+Set-Cookie: session-id=258-7054302-4912936; Domain=.amazon.in; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/
+Set-Cookie: session-id-time=2082787201l; Domain=.amazon.in; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/
+Set-Cookie: ubid-acbin=260-0297291-9696871; Domain=.amazon.in; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/
+Set-Cookie: session-token=s/pmhlgQbymMWceh35MlnCkkwef2AzADdT+6D4YDIknjYJpKa7u7bpmaS9JGfQdpxMgXhTEgflBWU72Ky2QPp+JIEnl65TPRDTepR2iT5N8WD05/dcJGe5nOeBHf2OtLwobBYyXGbl5iH5RL9pb+JWOeJE7FTXc7WW550GfKkvzXSYRPu3X1IJMiNHHmkURg; Domain=.amazon.in; Expires=Tue, 01-Jan-2036 08:00:01 GMT; Path=/
+Expires: -1
+Vary: Accept-Encoding,User-Agent
+Server: Server
+X-Amz-Cf-Id: nk-GrLgeszkHQK13OznaOc7Fd1m7qurXvsF3gK-yhVmeBVVYt3ybEw==
+Pragma: no-cache
+Cache-Control: no-cache, no-transform
+Date: Thu, 07 Sep 2017 13:16:01 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=UTF-8

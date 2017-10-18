@@ -1,0 +1,701 @@
+1504250733780	geckodriver	INFO	geckodriver 0.18.0
+1504250733782	geckodriver	INFO	Listening on 127.0.0.1:52965
+1504250734872	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504250735368	Marionette	INFO	Enabled via --marionette
+1504250736684	Marionette	INFO	Listening on port 34613
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504250736785	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504250736817	Marionette	DEBUG	loaded listener.js
+1504251395784	geckodriver	INFO	geckodriver 0.18.0
+1504251395787	geckodriver	INFO	Listening on 127.0.0.1:54949
+1504251396877	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504251397367	Marionette	INFO	Enabled via --marionette
+1504251398523	Marionette	INFO	Listening on port 40011
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504251398621	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504251398666	Marionette	DEBUG	loaded listener.js
+1504251627943	geckodriver	INFO	geckodriver 0.18.0
+1504251627945	geckodriver	INFO	Listening on 127.0.0.1:44061
+1504251629034	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504251629524	Marionette	INFO	Enabled via --marionette
+1504251630833	Marionette	INFO	Listening on port 41181
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504251630843	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504251630877	Marionette	DEBUG	loaded listener.js
+1504251714380	geckodriver	INFO	geckodriver 0.18.0
+1504251714383	geckodriver	INFO	Listening on 127.0.0.1:52885
+1504251715478	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504251715967	Marionette	INFO	Enabled via --marionette
+1504251717210	Marionette	INFO	Listening on port 46829
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504251717295	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504251717327	Marionette	DEBUG	loaded listener.js
+1504251828464	geckodriver	INFO	geckodriver 0.18.0
+1504251828466	geckodriver	INFO	Listening on 127.0.0.1:35595
+1504251829556	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504251830043	Marionette	INFO	Enabled via --marionette
+1504251831325	Marionette	INFO	Listening on port 41611
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504251831372	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504251831405	Marionette	DEBUG	loaded listener.js
+1504251831426	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504251833503	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504251833503	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504251834712	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504251836281	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504251836296	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504251837794	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504251837795	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504251838005	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1504251838669	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504251839233	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504251839253	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504251840642	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504251840642	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504251840871	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1504251841526	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504251842233	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504251842244	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504251843835	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504251843835	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504251844032	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1504251844697	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504251845299	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504251845314	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504251846777	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504251846778	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504251846984	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1504251847614	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504251848166	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504251848178	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504251849442	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504251849443	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504251849734	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1504251850430	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504251850971	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504251850980	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504251852161	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504251852163	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504251852382	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1504251853033	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504251853829	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504251853862	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504251855187	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504251855187	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504251855417	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1504251856042	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504251856696	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504251905801	geckodriver	INFO	geckodriver 0.18.0
+1504251905803	geckodriver	INFO	Listening on 127.0.0.1:38747
+1504251906891	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504251907382	Marionette	INFO	Enabled via --marionette
+1504251908678	Marionette	INFO	Listening on port 38569
+1504251908701	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504251908735	Marionette	DEBUG	loaded listener.js
+1504251950874	geckodriver	INFO	geckodriver 0.18.0
+1504251950876	geckodriver	INFO	Listening on 127.0.0.1:55135
+1504251951969	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504251952539	Marionette	INFO	Enabled via --marionette
+1504251953685	Marionette	INFO	Listening on port 33727
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504251953789	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504251953828	Marionette	DEBUG	loaded listener.js
+1504252100375	geckodriver	INFO	geckodriver 0.18.0
+1504252100378	geckodriver	INFO	Listening on 127.0.0.1:54685
+1504252101470	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504252101974	Marionette	INFO	Enabled via --marionette
+1504252103272	Marionette	INFO	Listening on port 39341
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504252103283	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504252103317	Marionette	DEBUG	loaded listener.js
+1504252119920	geckodriver	INFO	geckodriver 0.18.0
+1504252119922	geckodriver	INFO	Listening on 127.0.0.1:52263
+1504252121014	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504252121505	Marionette	INFO	Enabled via --marionette
+1504252122767	Marionette	INFO	Listening on port 41499
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504252122831	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504252122868	Marionette	DEBUG	loaded listener.js
+1504252122889	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504252124566	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504252124567	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504252125648	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504252129799	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504252129807	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504252131438	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504252131438	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504252131668	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1504252132312	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504252132882	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504252132892	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504252134467	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504252134468	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504252134708	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1504252135339	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504252135944	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504252135955	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504252137132	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504252137133	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+[Child 3735] WARNING: pipe error: Broken pipe: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1504252155146	geckodriver	INFO	geckodriver 0.18.0
+1504252155148	geckodriver	INFO	Listening on 127.0.0.1:36341
+1504252156238	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504252156738	Marionette	INFO	Enabled via --marionette
+1504252158010	Marionette	INFO	Listening on port 42765
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504252158054	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504252158093	Marionette	DEBUG	loaded listener.js
+1504252305522	geckodriver	INFO	geckodriver 0.18.0
+1504252305525	geckodriver	INFO	Listening on 127.0.0.1:59785
+1504252306619	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504252307127	Marionette	INFO	Enabled via --marionette
+1504252308316	Marionette	INFO	Listening on port 46751
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504252308410	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504252308455	Marionette	DEBUG	loaded listener.js
+1504252308480	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504252309926	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504252309926	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504252312165	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504252315235	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504252315244	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504252316308	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504252316308	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504252317132	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1504252317153	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504252318088	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504252318097	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504252319258	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504252319259	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504252320126	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504252320127	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1504252320750	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504252320760	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504252321817	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504252321817	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504252322043	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1504252322690	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504252323242	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504252323255	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504252324293	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504252324294	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504252324543	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1504252325543	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504252326598	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504252326609	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504252327826	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504252327827	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504252975813	geckodriver	INFO	geckodriver 0.18.0
+1504252975816	geckodriver	INFO	Listening on 127.0.0.1:47223
+1504252976903	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504252977415	Marionette	INFO	Enabled via --marionette
+1504252978725	Marionette	INFO	Listening on port 38373
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504252978819	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504252978854	Marionette	DEBUG	loaded listener.js
+1504252978874	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504252980564	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504252980565	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504252981813	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504252983342	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253000049	geckodriver	INFO	geckodriver 0.18.0
+1504253000052	geckodriver	INFO	Listening on 127.0.0.1:56195
+1504253001144	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504253001645	Marionette	INFO	Enabled via --marionette
+1504253002841	Marionette	INFO	Listening on port 33755
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504253002933	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504253002976	Marionette	DEBUG	loaded listener.js
+1504253003001	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504253005167	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504253005167	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504253006382	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253008113	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253042840	geckodriver	INFO	geckodriver 0.18.0
+1504253042842	geckodriver	INFO	Listening on 127.0.0.1:60855
+1504253043928	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504253044437	Marionette	INFO	Enabled via --marionette
+1504253045715	Marionette	INFO	Listening on port 33401
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504253045742	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504253045777	Marionette	DEBUG	loaded listener.js
+1504253045798	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504253047151	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504253047151	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504253048313	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253049853	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253049871	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253051258	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253051259	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253051456	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1504253052080	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504253052626	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504253052640	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504253053877	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504253053879	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504253054747	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253054747	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1504253055218	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253055244	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253056242	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253056243	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253056491	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1504253057117	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504253057604	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504253057625	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504253058672	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504253058672	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504253059636	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504253059636	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1504253060224	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504253060273	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504253062001	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504253062002	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504253062220	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1504253062843	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253063542	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253063601	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253064789	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253064790	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253065074	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1504253065714	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504253066276	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504253066295	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504253067406	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504253067407	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504253067620	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1504253068266	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504253068759	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504253164073	geckodriver	INFO	geckodriver 0.18.0
+1504253164076	geckodriver	INFO	Listening on 127.0.0.1:50529
+1504253165166	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504253165663	Marionette	INFO	Enabled via --marionette
+1504253166922	Marionette	INFO	Listening on port 43299
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504253166977	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504253167010	Marionette	DEBUG	loaded listener.js
+1504253167029	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504253168359	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504253168360	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504253169556	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253171065	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253171082	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253172207	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253172208	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253172398	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1504253173029	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504253173544	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504253173564	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504253174743	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504253174743	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504253175030	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1504253175716	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253176234	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253176316	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253177710	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253177711	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253177965	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1504253178544	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504253179327	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504253179377	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504253180409	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504253180410	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504253181206	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504253181214	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1504253181807	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504253181864	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504253183040	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504253183040	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504253183274	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1504253183939	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253184393	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253184413	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253185700	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253185700	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253185911	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1504253186577	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504253187328	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504253187380	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504253188567	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504253188568	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504253189367	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504253189375	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1504253189909	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+[Parent 6338] WARNING: pipe error (121): Connection reset by peer: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1504253319585	geckodriver	INFO	geckodriver 0.18.0
+1504253319588	geckodriver	INFO	Listening on 127.0.0.1:38583
+1504253320677	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504253321158	Marionette	INFO	Enabled via --marionette
+1504253322406	Marionette	INFO	Listening on port 46543
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504253322493	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504253322525	Marionette	DEBUG	loaded listener.js
+1504253322546	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504253326002	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504253326002	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504253328691	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253331925	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253379131	geckodriver	INFO	geckodriver 0.18.0
+1504253379134	geckodriver	INFO	Listening on 127.0.0.1:59247
+1504253380228	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504253380724	Marionette	INFO	Enabled via --marionette
+1504253381881	Marionette	INFO	Listening on port 37359
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504253381974	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504253382021	Marionette	DEBUG	loaded listener.js
+1504253382044	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504253384145	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504253384145	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504253385930	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253387710	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253433759	geckodriver	INFO	geckodriver 0.18.0
+1504253433761	geckodriver	INFO	Listening on 127.0.0.1:60195
+1504253434853	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504253435352	Marionette	INFO	Enabled via --marionette
+1504253436642	Marionette	INFO	Listening on port 34161
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504253436666	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504253436701	Marionette	DEBUG	loaded listener.js
+1504253436721	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504253439561	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504253439562	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504253440734	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253443930	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253460089	geckodriver	INFO	geckodriver 0.18.0
+1504253460091	geckodriver	INFO	Listening on 127.0.0.1:52065
+1504253461177	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504253461659	Marionette	INFO	Enabled via --marionette
+1504253462798	Marionette	INFO	Listening on port 32943
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504253462890	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504253462933	Marionette	DEBUG	loaded listener.js
+1504253462954	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504253466488	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504253466489	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504253467643	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253469211	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253485037	geckodriver	INFO	geckodriver 0.18.0
+1504253485040	geckodriver	INFO	Listening on 127.0.0.1:55639
+1504253486131	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504253486619	Marionette	INFO	Enabled via --marionette
+1504253487780	Marionette	INFO	Listening on port 35353
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504253487881	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504253487922	Marionette	DEBUG	loaded listener.js
+1504253487946	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504253489570	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504253489570	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504253490742	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253492801	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253492823	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253494043	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253494044	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253494233	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1504253494894	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504253495422	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504253495452	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504253496559	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504253496559	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504253496809	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1504253497462	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253498105	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+[Parent 7887] WARNING: pipe error (140): Connection reset by peer: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1504253586865	geckodriver	INFO	geckodriver 0.18.0
+1504253586868	geckodriver	INFO	Listening on 127.0.0.1:33333
+1504253587961	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504253588455	Marionette	INFO	Enabled via --marionette
+1504253589603	Marionette	INFO	Listening on port 39553
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504253589695	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504253589740	Marionette	DEBUG	loaded listener.js
+1504253589762	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504253591504	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504253591504	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504253592674	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253594201	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253594213	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253595482	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253595483	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253595702	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1504253596333	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504253596822	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504253596829	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504253598134	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504253598135	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504253598344	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1504253599155	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253600029	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253600037	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253601321	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253601322	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253781405	geckodriver	INFO	geckodriver 0.18.0
+1504253781407	geckodriver	INFO	Listening on 127.0.0.1:34041
+1504253782497	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504253782985	Marionette	INFO	Enabled via --marionette
+1504253784268	Marionette	INFO	Listening on port 46499
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504253784307	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504253784339	Marionette	DEBUG	loaded listener.js
+1504253784362	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504253787060	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504253787061	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504253788286	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253790569	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253790576	geckodriver	INFO	geckodriver 0.18.0
+1504253790579	geckodriver	INFO	Listening on 127.0.0.1:46191
+1504253791661	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504253792216	Marionette	INFO	Enabled via --marionette
+1504253793565	Marionette	INFO	Listening on port 43271
+1504253793580	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504253793617	Marionette	DEBUG	loaded listener.js
+1504253793641	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504253795406	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504253795406	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504253796587	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504253799040	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504253799046	geckodriver	INFO	geckodriver 0.18.0
+1504253799049	geckodriver	INFO	Listening on 127.0.0.1:52735
+1504253800133	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504253800659	Marionette	INFO	Enabled via --marionette
+1504253802045	Marionette	INFO	Listening on port 36687
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504253802146	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504253802179	Marionette	DEBUG	loaded listener.js
+1504253802197	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504253804916	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504253804917	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504253806181	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253807970	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253807976	geckodriver	INFO	geckodriver 0.18.0
+1504253807979	geckodriver	INFO	Listening on 127.0.0.1:33311
+1504253809083	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504253809612	Marionette	INFO	Enabled via --marionette
+1504253810840	Marionette	INFO	Listening on port 35103
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504253810956	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504253811003	Marionette	DEBUG	loaded listener.js
+1504253811026	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504253812642	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504253812642	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504253813907	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504253815715	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504253815721	geckodriver	INFO	geckodriver 0.18.0
+1504253815724	geckodriver	INFO	Listening on 127.0.0.1:43655
+1504253816809	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504253817329	Marionette	INFO	Enabled via --marionette
+1504253818637	Marionette	INFO	Listening on port 35263
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504253818752	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504253818793	Marionette	DEBUG	loaded listener.js
+1504253818816	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504253820585	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504253820586	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504253821805	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504253824940	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504253824950	geckodriver	INFO	geckodriver 0.18.0
+1504253824953	geckodriver	INFO	Listening on 127.0.0.1:48217
+1504253826043	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504253826619	Marionette	INFO	Enabled via --marionette
+1504253827908	Marionette	INFO	Listening on port 37961
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504253828025	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504253828077	Marionette	DEBUG	loaded listener.js
+1504253828096	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504253830767	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504253830767	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504253832028	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253833636	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504253833646	geckodriver	INFO	geckodriver 0.18.0
+1504253833649	geckodriver	INFO	Listening on 127.0.0.1:60307
+1504253834741	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504253835325	Marionette	INFO	Enabled via --marionette
+1504253836632	Marionette	INFO	Listening on port 33385
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504253836738	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504253836783	Marionette	DEBUG	loaded listener.js
+1504253836806	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504253838767	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504253838767	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504253839998	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504253841597	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504253841608	geckodriver	INFO	geckodriver 0.18.0
+1504253841615	geckodriver	INFO	Listening on 127.0.0.1:35691
+1504253842699	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504253843327	Marionette	INFO	Enabled via --marionette
+1504253844625	Marionette	INFO	Listening on port 42643
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504253844766	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504253844816	Marionette	DEBUG	loaded listener.js
+1504253844841	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504253846520	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504253846521	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504253847792	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504253849156	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504256260671	geckodriver	INFO	geckodriver 0.18.0
+1504256260674	geckodriver	INFO	Listening on 127.0.0.1:36377
+1504256261767	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504256262267	Marionette	INFO	Enabled via --marionette
+1504256263431	Marionette	INFO	Listening on port 36511
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504256263524	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504256263565	Marionette	DEBUG	loaded listener.js
+1504256263695	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504256266579	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504256266580	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504256267934	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504256269493	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504256269524	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504256270835	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504256270836	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504256271663	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504256271672	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1504256272362	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504256272385	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504256273855	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504256273856	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504256274710	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504256274711	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1504256275285	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504256275338	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504256276638	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504256276639	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504256276839	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1504256277480	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504256283415	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504256283465	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504256284496	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504256284497	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504256285504	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504256285512	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1504256286096	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504256286121	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504256287372	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504256287373	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504256287627	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1504256288211	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504256288770	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504256288794	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504256290471	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504256290471	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504256290694	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1504256291403	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504256291931	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504256291955	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504256293397	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504256293398	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504256293636	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1504256294404	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504256294936	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504256327981	geckodriver	INFO	geckodriver 0.18.0
+1504256327984	geckodriver	INFO	Listening on 127.0.0.1:56737
+1504256329072	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504256329563	Marionette	INFO	Enabled via --marionette
+1504256330724	Marionette	INFO	Listening on port 38995
+1504256330807	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504256330853	Marionette	DEBUG	loaded listener.js
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504256330924	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504256332876	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504256332876	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504256334080	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504256335416	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504256335447	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504256336505	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1504256336534	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504256336534	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504256336786	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1504256337438	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504256337964	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504256337996	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504256339264	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504256339264	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504256339503	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1504256340300	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504256341111	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504256341189	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504256343149	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504256343150	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504256343970	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1504256343971	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504256344667	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504256344719	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504256345750	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504256345751	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504256346000	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1504256346562	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504256347387	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504256347447	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504256348661	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504256348661	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504256349732	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504256349732	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1504256350410	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504256350464	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504256351744	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504256351744	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504256351954	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1504256352586	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504256353126	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504256353149	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504256354311	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504256354311	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504256354514	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1504256355128	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504256356348	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504256457516	geckodriver	INFO	geckodriver 0.18.0
+1504256457519	geckodriver	INFO	Listening on 127.0.0.1:45315
+1504256458609	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504256459098	Marionette	INFO	Enabled via --marionette
+1504256460392	Marionette	INFO	Listening on port 40345
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504256460422	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504256460457	Marionette	DEBUG	loaded listener.js
+1504256460531	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504256462550	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504256462551	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504256463679	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504256465973	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504256466001	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504256467519	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504256467520	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504256467720	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1504256468388	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504256469276	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504256469304	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504256470766	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504256470766	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504256470996	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1504256471645	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504256472271	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504256472324	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504256473634	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504256473635	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504256473873	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1504256474590	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504256475159	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504256475182	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504256476353	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504256476353	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504256476549	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1504256477319	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504256477912	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504256477938	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504256479339	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504256479340	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504256479582	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1504256480236	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504256480754	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504256480789	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504256482088	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504256482089	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=1"
+1504256482290	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1504256483129	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504256483639	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504256483675	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504256484934	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504256484935	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=2"
+1504256485172	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1504256485834	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"
+1504256486422	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx&page=3"

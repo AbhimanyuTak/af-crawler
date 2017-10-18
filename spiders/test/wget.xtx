@@ -1,0 +1,26 @@
+'''
+                    "https://www.flipkart.com/home-kitchen/home-appliances/washing-machines/fully-automatic-front-" +
+                    "load~function/pr?sid=j9e%2Cabm%2C8qx&page=2",
+                    "https://www.flipkart.com/home-kitchen/home-appliances/washing-machines/semi-automatic-top-load~"+
+                    "function/pr?sid=j9e%2Cabm%2C8qx&page=1",
+                    "https://www.flipkart.com/home-kitchen/home-appliances/washing-machines/semi-automatic-top-load~"+
+                    "function/pr?sid=j9e%2Cabm%2C8qx&page=2",
+                    "https://www.flipkart.com/home-kitchen/home-appliances/washing-machines/semi-automatic-top-load~"+
+                    "function/pr?sid=j9e%2Cabm%2C8qx&page=3",
+                    "https://www.flipkart.com/home-kitchen/home-appliances/washing-machines/fully-automatic-top-load~f"+
+                    "unction/pr?sid=j9e%2Cabm%2C8qx&page=1",
+                    "https://www.flipkart.com/home-kitchen/home-appliances/washing-machines/fully-automatic-top-load~f"+
+                    "unction/pr?sid=j9e%2Cabm%2C8qx&page=2",
+                    "https://www.flipkart.com/home-kitchen/home-appliances/washing-machines/fully-automatic-top-load~f"+
+                    "unction/pr?sid=j9e%2Cabm%2C8qx&page=3"
+                ]
+'''
+
+
+
+wget --random-wait --limit-rate=100k -A=.jpg,.png 'https://rukminim1.flixcart.com/image/832/832/washing-machine-new/d/m/5/panasonic-f70h6drb-original-imaeb2zzbw6mnzur.jpeg'
+
+--user-agent
+
+
+wget --random-wait --limit-rate=100K -A=.jpg,.png --user-agent="Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36" --input-file=urls.txt
